@@ -1,6 +1,7 @@
 # DTU Chip Day
 
 19 April 2022, 12:30 at DTU building 101, room S01
+[Article on the Chip day](https://www.dtu.dk/english/news/all-news/nyhed?id=07dcbdbb-b948-425a-8568-7331bb271414)
 
 ## Agenda
 
